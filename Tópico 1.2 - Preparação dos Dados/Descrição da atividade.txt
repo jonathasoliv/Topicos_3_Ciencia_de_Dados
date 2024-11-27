@@ -1,0 +1,7 @@
+Nesta atividade, você trabalhará com uma base de dados fictícia relacionada à indústria de jogos. Seu objetivo é preparar os dados para análises futuras, realizando as seguintes operações:
+
+Preenchimento de Elementos Faltantes: Identifique e trate os valores ausentes nas colunas "Classificação de Usuários" e "Idade Recomendada". Você pode optar por preencher esses valores usando métodos como a média, mediana, ou qualquer outra técnica que considerar adequada.
+
+Transformação de Variáveis Categóricas: Converta as colunas "Gênero", "Plataforma" e "Lançamento no Brasil" para um formato numérico, utilizando técnicas como one-hot encoding ou label encoding.
+
+Normalização de Dados: Aplique a normalização nas colunas "Vendas Globais" e "Preço" para que essas variáveis estejam na mesma escala. Você pode utilizar métodos como Min-Max Scaling ou Z-Score.
