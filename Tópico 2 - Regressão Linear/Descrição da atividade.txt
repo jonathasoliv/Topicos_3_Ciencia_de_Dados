@@ -1,0 +1,39 @@
+Neste exercício, você aplicará os conceitos de regressão linear simples para prever uma variável dependente com base em uma variável independente. Além disso, você realizará todas as etapas de pré-processamento e avaliação necessárias para criar um modelo robusto.
+
+OBS.: Utilizado a base de dados de diabetes.
+
+Instruções:
+
+Coleta de Dados:
+
+Busque uma base de dados que seja apropriada para um problema de regressão linear simples. A base deve conter pelo menos uma variável dependente e uma variável independente.
+
+Pré-processamento de Dados:
+
+Elementos Faltantes: Preencha ou remova quaisquer elementos faltantes na base de dados (caso existam).
+
+Variáveis Categóricas: Se houver variáveis categóricas, transforme-as em variáveis numéricas.
+
+Normalização: Normalize as variáveis se necessário.
+
+Separação de Dados: Divida a base em conjuntos de treino e teste.
+
+Modelagem e Treino:
+
+Utilize a base de treino para criar e treinar um modelo de regressão linear simples.
+
+Avaliação de Modelo:
+
+Utilize a base de teste para fazer previsões.
+
+Calcule a métrica RMSE (Root Mean Square Error) para avaliar o desempenho do modelo.
+
+Visualização:
+
+Gere um gráfico plotando os pontos do conjunto de teste e desenhe a reta de regressão gerada pelo modelo.
+
+Apresentar:
+
+Código-fonte realizando todas as etapas acima.
+
+Relatório curto descrevendo suas observações, incluindo a métrica RMSE e o gráfico.
