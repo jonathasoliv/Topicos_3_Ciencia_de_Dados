@@ -1,0 +1,36 @@
+Neste exercício, você aplicará os conceitos de regressão logística para classificar uma variável dependente com base em uma ou mais variáveis independentes. Além disso, você realizará todas as etapas de pré-processamento e avaliação necessárias para criar um modelo robusto.
+
+Instruções:
+Coleta de Dados:
+
+Busque uma base de dados que seja apropriada para um problema de classificação. A base deve conter pelo menos uma variável dependente e duas ou mais variáveis independentes.
+
+Pré-processamento de Dados:
+
+Elementos Faltantes: Preencha ou remova quaisquer elementos faltantes na base de dados (caso existam).
+
+Variáveis Categóricas: Se houver variáveis categóricas, transforme-as em variáveis numéricas.
+
+Normalização: Normalize as variáveis se necessário.
+
+Separação de Dados: Divida a base em conjuntos de treino e teste.
+
+Modelagem e Treino:
+
+Utilize a base de treino para criar e treinar um modelo de regressão logística usando a scikit-learn.
+
+Avaliação de Modelo:
+
+Utilize a base de teste para fazer previsões.
+
+Calcule métricas como a acurácia, precisão, recall e F1-score para avaliar o desempenho do modelo.
+
+Visualização:
+
+Gere gráficos que mostrem a eficácia do modelo, como curvas ROC ou matrizes de confusão.
+
+Apresentar:
+
+Código-fonte realizando todas as etapas acima.
+
+Relatório curto descrevendo suas observações, incluindo as métricas escolhidas e quaisquer gráficos gerados.
