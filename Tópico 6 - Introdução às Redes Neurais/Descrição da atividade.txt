@@ -1,0 +1,38 @@
+Neste trabalho, você implementará e avaliará três diferentes algoritmos de classificação para prever uma variável alvo categórica. Ao final, você comparará o desempenho desses algoritmos e identificará qual deles se mostrou mais eficaz.
+
+Instruções
+Coleta de Dados
+Escolha da Base de Dados: Selecione uma base de dados adequada para problemas de classificação. A base deve conter pelo menos uma variável alvo categórica e múltiplas variáveis independentes.
+
+ESCOLHA UMA BASE DE DADOS QUE NÃO TENHA SIDO USADA ANTES!
+
+Pré-processamento de Dados
+Elementos Faltantes: Trate os elementos faltantes na base de dados, se houver.
+
+Variáveis Categóricas: Converta variáveis categóricas em numéricas, utilizando técnicas como One-Hot Encoding, se necessário.
+
+Normalização: Normalize as variáveis, especialmente se você for usar algoritmos sensíveis à escala.
+
+Separação de Dados: Divida a base em conjuntos de treino e teste.
+
+Implementação e Treino
+Perceptron Simples: Implemente e treine um perceptron simples.
+
+MLP (Multilayer Perceptron): Implemente e treine um MLP.
+
+Algoritmo Clássico: Escolha e implemente um algoritmo clássico de Machine Learning que você acha que dará bons resultados (por exemplo, k-NN, Árvores de Decisão, SVM, etc.).
+
+Avaliação de Modelos
+Use o conjunto de teste para fazer previsões com cada um dos modelos treinados.
+
+Calcule métricas de avaliação como precisão, recall e F1-score para cada modelo.
+
+Comparação de Desempenho
+Compare as métricas de avaliação entre os três modelos.
+
+Identifique qual algoritmo teve o melhor desempenho e justifique sua escolha.
+
+Entregáveis
+Código-fonte com todas as etapas acima implementadas.
+
+Relatório sintético descrevendo suas observações, comparações e conclusões. Esse relatório pode ser incluído diretamente no Jupyter Notebook que você utilizar para a implementação. Inclua métricas de avaliação e qualquer gráfico que ajudar a visualizar seus resultados.
