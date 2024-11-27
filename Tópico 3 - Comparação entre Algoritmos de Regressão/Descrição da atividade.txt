@@ -1,0 +1,39 @@
+Objetivo:
+
+Neste trabalho, você implementará e avaliará três diferentes algoritmos de regressão para prever uma variável dependente. Ao final, você comparará o desempenho desses algoritmos e identificará qual deles se mostrou mais eficaz.
+
+Instruções:
+
+Coleta de Dados: Selecione uma base de dados adequada para problemas de regressão. A base deve conter pelo menos uma variável dependente e uma ou mais variáveis independentes.
+
+Pré-processamento de Dados:
+
+Elementos Faltantes: Trate os elementos faltantes na base de dados, se houver.
+
+Variáveis Categóricas: Converta variáveis categóricas em numéricas, se necessário.
+
+Normalização: Normalize as variáveis, caso seja necessário.
+
+Separação de Dados: Divida a base em conjuntos de treino e teste.
+
+Implementação e Treino:
+
+Implemente e treine três algoritmos de regressão diferentes (por exemplo, Regressão Linear, Regressão Polinomial e Regressão por Floresta Randômica).
+
+Avaliação de Modelos:
+
+Use o conjunto de teste para fazer previsões com cada um dos modelos treinados.
+
+Calcule métricas de avaliação como RMSE e MAE para cada modelo.
+
+Comparação de Desempenho:
+
+Compare as métricas de avaliação entre os três modelos.
+
+Identifique qual algoritmo teve o melhor desempenho e justifique sua escolha.
+
+Entregáveis:
+
+Código-fonte com todas as etapas acima implementadas.
+
+Relatório sintético descrevendo suas observações, comparações e conclusões (pode incluir no Jupyter Notebook). Inclua as métricas de avaliação e os gráficos gerados.
